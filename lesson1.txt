@@ -1,0 +1,65 @@
+I can use diff -u (u for unfied diff format)
+to compare files in my git bash terimnal
+and I can use Vim to create/edit file which I'm doing now
+The command for Windows Command Prompt is FC
+I can also use Sublime or Nano for editing 
+(Need to clarfy what I can do)
+Tools like diff -u can quickly compare various 
+files of the same program. This
+is great for debugging and testing
+or maybe innovation as well
+
+How could having easy access to the entire
+history of a file make you a more efficient
+programmer in the long term?
+Could fix new errors by comparing
+
+What do you think are the pros and 
+cons of manually choosing when to create
+a commit, like you do in Git, vs having 
+versions automatically saved, like Google 
+Docs does? 
+manaully allows user to display
+logical change better while automatice
+may not display logical changes, but
+manual is prone to more user error
+while automatic is good for forgetfulness
+
+
+Why do you think some version control systems, 
+like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file 
+separately?
+some like Git need mutiple files in one commit
+to perform a single program the requires mutiple
+languges. Google Docs doesn't need such file
+intergration
+
+How can you use the commands git log and git 
+diff to view the history of files?
+git log shows all the logged commits
+while git diff compares two of these
+selceted commits and displays
+the lines added and deleted from the
+two
+
+How might using version control make you more 
+confident to make changes that could break 
+something? Well I now have the ability to revert
+to previous commits and if I wanted I could
+try to edit the reverted one and save which would
+cause an unknown consequence for me. Also, I may 
+forget what the orginal most recent comit ID
+is which would be bad because I dont know how
+to go back to the orginal head state without it.
+
+Now that you have your workspace set up, what 
+do you want to try using Git for?
+I want to use git to compile my future projects 
+and to maintain general orgnization of my file 
+streams. I also want to master Sublime and maybe 
+one day Vim. I also wish to use git bash to
+acquire jobs and opertunties (maybe freelance
+and or remote) that will give me finiacal freedome
+
+

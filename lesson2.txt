@@ -1,0 +1,18 @@
+USEFUL COMMANDS - Git
+& Reflections
+
+git log
+git checkout - 
+git diff (orignal file, new file)
+git clone 
+git statue
+
+git init - create new directory
+
+What happens when you initialize a repository?
+Why do you need to do it?
+the current directory becomes a repositotry after
+running the git init. We need to do this
+to track commits and probably there's
+required implications with plugins
+running programs.
