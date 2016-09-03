@@ -30,3 +30,18 @@ after they go through staging area and the
 working directory is the directory within
 the repostitory that is being currently
 worked on
+
+How can you use the staging area to make sure you 
+have one commit per logical change?
+You can check the staging area to see
+what files have been modified or untracked or 
+ready to commit.
+
+What are some situations when branches 
+would be helpful in keeping your history organized? 
+How would branches help?
+Branches would be useful in sitations where you
+want to create various verisions of an application.
+Branches help by giving you an extra branch stemming
+off the master branch and you can have mutple extra branches
+and you can merge them

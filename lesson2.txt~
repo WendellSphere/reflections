@@ -9,6 +9,9 @@ git status - acts on working directory
 git add - add files to staging area
 git init - create new directory
 git log --stat   //gives stats on changes of files for each commit
+git diff --staged  //comapres staging area to commits
+git diff (no arguments)  //comapres working directory to staging area
+
 
 What happens when you initialize a repository?
 Why do you need to do it?
@@ -27,3 +30,9 @@ after they go through staging area and the
 working directory is the directory within
 the repostitory that is being currently
 worked on
+
+How can you use the staging area to make sure you 
+have one commit per logical change?
+You can check the staging area to see
+what files have been modified or untracked or 
+ready to commit. 
