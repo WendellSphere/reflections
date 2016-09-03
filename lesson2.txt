@@ -2,7 +2,7 @@ USEFUL COMMANDS - Git
 & Reflections
 
 git log
-git checkout - 
+git checkout - checkout commits or branches
 git diff (orignal file, new file)
 git clone 
 git status - acts on working directory
@@ -11,7 +11,9 @@ git init - create new directory
 git log --stat   //gives stats on changes of files for each commit
 git diff --staged  //comapres staging area to commits
 git diff (no arguments)  //comapres working directory to staging area
-
+git branch (no arguments)  //shows branches, current branch
+git branch   // adds new branch to master branch
+git log --graph --oneline master    //shows diagram of branches
 
 What happens when you initialize a repository?
 Why do you need to do it?
