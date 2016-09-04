@@ -50,3 +50,9 @@ and you can merge them.
 
 How do the diagrams help you visualize the branch structure?
 gives visual of the branches with their commits.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+adds new lines from branch to orginal branch and removes lines
+from orginal branch if removed from the other branch //not sure
+
