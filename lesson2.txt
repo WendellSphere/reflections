@@ -46,4 +46,7 @@ Branches would be useful in sitations where you
 want to create various verisions of an application.
 Branches help by giving you an extra branch stemming
 off the master branch and you can have mutple extra branches
-and you can merge them
+and you can merge them.
+
+How do the diagrams help you visualize the branch structure?
+gives visual of the branches with their commits.
