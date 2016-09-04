@@ -14,6 +14,9 @@ git diff (no arguments)  //comapres working directory to staging area
 git branch (no arguments)  //shows branches, current branch
 git branch   // adds new branch to master branch
 git log --graph --oneline master    //shows diagram of branches
+git loge -n 1 //shows most recent commit?
+git gc       // runs grabage patrol on commits from branhced branch
+git log --graph --oneline master  //visual rep of commit history
 
 What happens when you initialize a repository?
 Why do you need to do it?
@@ -46,4 +49,13 @@ Branches would be useful in sitations where you
 want to create various verisions of an application.
 Branches help by giving you an extra branch stemming
 off the master branch and you can have mutple extra branches
-and you can merge them
+and you can merge them.
+
+How do the diagrams help you visualize the branch structure?
+gives visual of the branches with their commits.
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+adds new lines from branch to orginal branch and removes lines
+from orginal branch if removed from the other branch //not sure
+
