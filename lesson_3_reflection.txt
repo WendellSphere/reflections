@@ -24,3 +24,11 @@ What is the benefit of having a copy of the last known state
 of the remote stored locally?
 allows prgorammer to play around with the updated commit offline.
 Also enables the abilty to fast forwad merge...
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+It be easier to not take the course at all and just make up
+some way to collaborate because it's a faster learning curve
+but, it be harder that way because you probably wouldn't
+create as effective and quick platforms such as github and git.
+
