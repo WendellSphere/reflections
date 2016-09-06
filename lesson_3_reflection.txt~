@@ -9,4 +9,7 @@ git pull orgin master ""  //
 When would you want to use a remote repository rather than keeping all your work local?
 You wold use a remote repositroy if you're not on your local computer.
 
+Why might you want to always pull changes manually rather 
+than having Git automatically stay up-to-date with your remote repository?
+Not sure.
 
