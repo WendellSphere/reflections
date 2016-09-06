@@ -20,3 +20,7 @@ to the original creator. Clone is to copy a whole repostory from gitHub
 unto git on a local device. Branches streams of commits that 
 are pushed or pulled or cloned. 
 
+What is the benefit of having a copy of the last known state 
+of the remote stored locally?
+allows prgorammer to play around with the updated commit offline.
+Also enables the abilty to fast forwad merge...

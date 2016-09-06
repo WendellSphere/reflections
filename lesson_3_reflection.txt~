@@ -13,3 +13,10 @@ Why might you want to always pull changes manually rather
 than having Git automatically stay up-to-date with your remote repository?
 Not sure.
 
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+forks are clones that operate soley on git hub in order to give credit 
+to the original creator. Clone is to copy a whole repostory from gitHub 
+unto git on a local device. Branches streams of commits that 
+are pushed or pulled or cloned. 
+
