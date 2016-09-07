@@ -32,3 +32,15 @@ some way to collaborate because it's a faster learning curve
 but, it be harder that way because you probably wouldn't
 create as effective and quick platforms such as github and git.
 
+When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
+Well , if you wanted to focus on the different branch to further
+modify this branch then you would want make changes on it. Possibly,
+this branch could be a new direction that one is testing out or simply 
+its additional feature to the master that's being developed. Although,
+this is useful it complicates merge prcodeures and the interaction between
+Git and GitHub. Making changes just to master is easier to proceed with
+but allows less felxibitlity and disccourages collaboration unlike alternating
+on a sperate branch which provides both.
+
