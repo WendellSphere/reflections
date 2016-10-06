@@ -7,7 +7,7 @@ git diff (orignal file, new file)
 git clone 
 git status - acts on working directory
 git add - add files to staging area
-git init - create new directory
+git init - create new directory or repostitory?
 git log --stat   //gives stats on changes of files for each commit
 git diff --staged  //comapres staging area to commits
 git diff (no arguments)  //comapres working directory to staging area
@@ -17,6 +17,9 @@ git log --graph --oneline master    //shows diagram of branches
 git loge -n 1 //shows most recent commit?
 git gc       // runs grabage patrol on commits from branhced branch
 git log --graph --oneline master  //visual rep of commit history
+
+git show // shows changes just in commit compared to its parrent
+git branch -d branch // deletes branch
 
 What happens when you initialize a repository?
 Why do you need to do it?
